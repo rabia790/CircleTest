@@ -1,5 +1,6 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
+public class Circle {
+
+    private double radius;
+    private Point centre;
+
 }
